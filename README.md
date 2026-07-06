@@ -29,7 +29,6 @@ Abre VSCode, ve a la pestaña de Extensiones (`Ctrl+Shift+X`), busca e instala:
 | Animations | `brandonkirbyson.vscode-animations` | Animaciones suaves |
 | Custom UI Style | `custom-ui-style` | Estilos UI personalizados |
 | File Peek | `file_peek` | Vista previa de archivos |
-| Kilo Code | `kilo-code.new` | Autocompletado con IA |
 
 O instala todo desde la terminal:
 
