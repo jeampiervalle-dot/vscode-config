@@ -29,7 +29,6 @@ Abre VSCode, ve a la pestaña de Extensiones (`Ctrl+Shift+X`), busca e instala:
 | Animations | `brandonkirbyson.vscode-animations` | Animaciones suaves |
 | Custom UI Style | `custom-ui-style` | Estilos UI personalizados |
 | File Peek | `file_peek` | Vista previa de archivos |
-| Background | `background` | Fondo personalizado |
 | Kilo Code | `kilo-code.new` | Autocompletado con IA |
 
 O instala todo desde la terminal:
@@ -39,10 +38,8 @@ code --install-extension Catppuccin.catppuccin-vsc
 code --install-extension Catppuccin.catppuccin-vsc-icons
 code --install-extension esbenp.prettier-vscode
 code --install-extension brandonkirbyson.vscode-animations
-code --install-extension kilo-code.new
 code --install-extension file_peek
 code --install-extension custom-ui-style
-code --install-extension background
 ```
 
 ### 3. Fuente JetBrains Mono (opcional pero recomendada)
