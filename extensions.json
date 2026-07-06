@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "Catppuccin.catppuccin-vsc",
+    "Catppuccin.catppuccin-vsc-icons",
+    "esbenp.prettier-vscode",
+    "brandonkirbyson.vscode-animations",
+    "kilo-code.new",
+    "file_peek",
+    "custom-ui-style",
+    "background",
+  ],
+}
